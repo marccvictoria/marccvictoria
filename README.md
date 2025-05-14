@@ -6,7 +6,7 @@
 <h1>👋 Hey, I'm Marc!</h1>
 
 ### 🧭 About Me
-- 💡 I’m interested about AI/ML, software development, and cybersecurity.  
+- 💡 I’m interested in AI/ML, software development, and cybersecurity.  
 - 📚 Currently pursuing a degree in Computer Science.  
 - 🧠 Always curious and excited to learn new technologies.  
 - 🌍 Pronouns: He/Him
