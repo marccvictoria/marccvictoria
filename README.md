@@ -6,10 +6,9 @@
 <h1>👋 Hey, I'm Marc!</h1>
 
 ### 🧭 About Me
-- 💡 I’m interested in AI/ML, software development, and cybersecurity.  
-- 📚 Currently pursuing a degree in Computer Science.  
-- 🧠 Always curious and excited to learn new technologies.  
-- 🌍 Pronouns: He/Him
+- 💡 Passionate in software engineering, AI, and data science.  
+- 📚 Currently pursuing a bachelor's in Computer Science @ University of the Philippines Los Baños.  
+- 🧠 Curious and driven to learn new technologies.  
 
 ![GIF](https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d8/Smiling_Creeper_Exploding.gif/revision/latest/scale-to-width-down/985?cb=20220717124541)
 
