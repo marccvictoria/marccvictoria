@@ -30,10 +30,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" alt="CSS3"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="30" alt="Bootstrap"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" alt="TailwindCSS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" alt="React"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="30" alt="React Native"/>
 </p>
 
 #### Tools & Platforms
