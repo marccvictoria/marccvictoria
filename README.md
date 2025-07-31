@@ -49,10 +49,8 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="30" alt="Seaborn"/>
 </p>
 
-### GitHub Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=marccvictoria&theme=tokyonight&border_radius=10" width="90%"/>
-
-### Top Languages
+<p> </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marccvictoria&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
 
   </td>
